@@ -454,3 +454,57 @@ defaults write com.apple.PowerChime ChimeOnAllHardware -bool false;killall Power
 }
 
 ```
+### keybindings.json
+```
+[
+	{ "key": "ctrl+n", "command": "explorer.newFile", "when": "!editorFocus" },
+	{
+		"key": "ctrl+shift+n",
+		"command": "explorer.newFolder",
+		"when": "!editorFocus"
+	},
+	{
+		"key": "shift+enter",
+		"command": "metaGo.gotoSmart",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+tab",
+		"command": "workbench.action.nextEditor"
+	},
+	{
+		"key": "ctrl+shift+tab",
+		"command": "workbench.action.previousEditor"
+	},
+	{
+		"key": "shift+cmd+e",
+		"command": "-extension.exportDefault",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+shift+/",
+		"command": "editor.action.triggerSuggest",
+		"when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+l",
+		"command": "-notebook.centerActiveCell",
+		"when": "notebookEditorFocused"
+	},
+	{
+		"key": "ctrl+o",
+		"command": "-lineBreakInsert",
+		"when": "textInputFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+shift+alt+p",
+		"command": "metaGo.inPairSelectionWithSeparators"
+	},
+	{
+		"key": "ctrl+space",
+		"command": "-editor.action.triggerSuggest",
+		"when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+	}
+]
+```
+
