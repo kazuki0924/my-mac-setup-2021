@@ -51,7 +51,7 @@
 - cdk cli
 - anyenv
 - Python
-- Go (GOPATH, GOROOT)
+- Go
 - Node.js
 - yarn
 - Xcode
@@ -62,7 +62,7 @@
 - oh-my-zsh
 - powerlevel10k
 - last-working-dir
-- zsh-interactive-c
+- zsh-interactive-cd
 - z
 - up
 - autoupdate
