@@ -57,6 +57,7 @@
 - Xcode
 - postgres
 - redis
+- tree
 
 ### zsh setup
 - oh-my-zsh
