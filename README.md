@@ -17,6 +17,8 @@
 - Rectangle
 - Slack
 - The Unarchiver
+- TablePlus
+- GitHub Desktop
 
 ### Bookmarks
 - Gmail
@@ -40,14 +42,19 @@
 - Dark VS Code GitHub Theme
 
 ### Setup Todo
+- Homebrew
 - aws cli
 - eb cli
+- sam cli
+- pulumi cli
+- cdk cli
+- anyenv
 - Python
 - Go (GOPATH, GOROOT)
 - Node.js
 - Xcode
-- .zshrc
-- VS Code
+- postgres
+- redis
 
 ### zsh setup
 - oh-my-zsh
@@ -58,14 +65,16 @@
 - up
 - autoupdate
 - history-search-multi-word
+- fzf
 - fzf-tab
 - fast-syntax-highlighting
 - zsh-autosuggestions
 - zsh-bash-completions-fallback
 - zsh-autopair
-- fzf.zsh
 - tab_complete
 - bracketed-paste-magic
+- zsh-completions
+- direnv
 
 ```
 alias s="source ~/.zshrc"
@@ -148,4 +157,3 @@ alias vsz="cd && code-insiders .zshrc"
 - Partial Diff
 - Path Autocomplete
 - Path Intellisense
-- 
