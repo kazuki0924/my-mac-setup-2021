@@ -1,0 +1,35 @@
+[
+	{
+		"key": "shift+cmd+e",
+		"command": "-extension.exportDefault",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+n",
+		"command": "explorer.newFile",
+		"when": "!editorFocus"
+	},
+	{
+		"key": "ctrl+shift+n",
+		"command": "explorer.newFolder",
+		"when": "!editorFocus"
+	},
+	{
+		"key": "shift+enter",
+		"command": "metaGo.gotoSmart",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+tab",
+		"command": "workbench.action.nextEditor"
+	},
+	{
+		"key": "ctrl+shift+tab",
+		"command": "workbench.action.previousEditor"
+	},
+	{
+		"key": "ctrl+shift+/",
+		"command": "editor.action.triggerSuggest",
+		"when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+	}
+]
