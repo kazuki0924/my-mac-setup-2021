@@ -29,7 +29,7 @@
 - YouTube
 - Udemy
 
-### Chrome Extentions
+### Chrome extentions
 - Dark Reader
 - Octotree
 - OctoLinker
@@ -49,7 +49,7 @@
 - .zshrc
 - VS Code
 
-### zsh
+### zsh setup
 - oh-my-zsh
 - powerlevel10k
 - last-working-dir
@@ -78,4 +78,74 @@ alias grs="git reset --soft HEAD~1"
 alias vsz="cd && code-insiders .zshrc"
 ```
 
-### Visual Studio Code
+### Visual Studio Code extentions
+
+## Snippets
+
+## Must
+- Bracket Pair Colorizer 2
+- Code Spell Checker
+- Control Snippets
+- Error Lens
+- DotENV
+- Extened Terminal Integration
+- Formatting Toggle
+- Git Graph
+- gitignore
+- GitLens
+- Go to Next/Previous Member
+- indent-rainbow
+- Markdown All in One
+- markdownlint
+- MetaGo
+- MetaJump
+- MetaWord
+- Output Colorizer
+- Quick and Simple Text Selection
+- Shortcuts
+- Sort JSON objects
+- Tabnine
+- Visual Studio IntelliCode
+- YAML
+- Docker
+
+## Themes
+- Material Theme Icons
+
+## JavaScript
+- ESLint
+- Import Cost
+- Move TS
+- Node.js Modules Intellisense
+- npm
+- npm Intellisense
+- Prettier
+- Quokka.js
+- QUokka Statusbar
+- TypeScript Import
+- TypeScript Import Sorter
+- 
+
+## Go
+- Go
+- Go Outliner
+- Lowlight Go Errors
+
+# Mermaid
+- Mermaid Markdown Syntax Highlighting
+- Mermaid Preview
+
+## Maybe
+- All Autocomplete
+- Auto Close Tag
+- Auto Complete Tag
+- Auto Correct
+- Auto Import
+- Auto Rename Tag
+- CloudFormation
+- EditorConfig for VS Code
+- htmltagwrap
+- Partial Diff
+- Path Autocomplete
+- Path Intellisense
+- 
