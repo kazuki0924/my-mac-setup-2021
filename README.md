@@ -19,6 +19,7 @@
 - The Unarchiver
 - TablePlus
 - GitHub Desktop
+- Slack
 
 ### Bookmarks
 - Gmail
@@ -52,6 +53,7 @@
 - Python
 - Go (GOPATH, GOROOT)
 - Node.js
+- yarn
 - Xcode
 - postgres
 - redis
@@ -89,9 +91,7 @@ alias vsz="cd && code-insiders .zshrc"
 
 ### Visual Studio Code extentions
 
-## Snippets
-
-## Must
+### Must
 - Bracket Pair Colorizer 2
 - Code Spell Checker
 - Control Snippets
@@ -118,10 +118,10 @@ alias vsz="cd && code-insiders .zshrc"
 - YAML
 - Docker
 
-## Themes
+### Themes
 - Material Theme Icons
 
-## JavaScript
+### JavaScript
 - ESLint
 - Import Cost
 - Move TS
@@ -135,16 +135,16 @@ alias vsz="cd && code-insiders .zshrc"
 - TypeScript Import Sorter
 - 
 
-## Go
+### Go
 - Go
 - Go Outliner
 - Lowlight Go Errors
 
-# Mermaid
+### Mermaid
 - Mermaid Markdown Syntax Highlighting
 - Mermaid Preview
 
-## Maybe
+### Maybe
 - All Autocomplete
 - Auto Close Tag
 - Auto Complete Tag
@@ -157,3 +157,13 @@ alias vsz="cd && code-insiders .zshrc"
 - Partial Diff
 - Path Autocomplete
 - Path Intellisense
+
+### Fonts
+- FiraCode
+
+### Other
+- Change Modifier Key: from Caps Lock to Control
+- Kill PowerChime
+```
+defaults write com.apple.PowerChime ChimeOnAllHardware -bool false;killall PowerChime
+```
