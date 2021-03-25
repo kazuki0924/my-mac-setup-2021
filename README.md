@@ -121,6 +121,8 @@ alias vsz="cd && code-insiders .zshrc"
 
 ### Themes
 - Material Theme Icons
+- Horizon
+- Fluent Icons
 
 ### JavaScript
 - ESLint
@@ -134,7 +136,6 @@ alias vsz="cd && code-insiders .zshrc"
 - QUokka Statusbar
 - TypeScript Import
 - TypeScript Import Sorter
-- 
 
 ### Go
 - Go
