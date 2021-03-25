@@ -61,6 +61,14 @@
 - up
 - direnv
 
+### Go
+```
+go get -u github.com/cosmtrek/air
+
+// .zshrc
+alias air='$(go env GOPATH)/bin/air'
+```
+
 ### zsh setup
 - oh-my-zsh
 - powerlevel10k
