@@ -70,6 +70,14 @@ go get -u github.com/cosmtrek/air
 alias air='$(go env GOPATH)/bin/air'
 ```
 
+### Redis
+```
+cd /Applications && git clone https://github.com/luin/medis.git && cd medis && npm install && npm run pack && npm start
+
+// .zshrc
+alias medis="cd /Applications/medis && npm start"
+```
+
 ### zsh setup
 - oh-my-zsh
 - powerlevel10k
