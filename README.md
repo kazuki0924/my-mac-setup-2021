@@ -60,6 +60,7 @@
 - tree
 - up
 - direnv
+- Medis
 
 ### Go
 ```
