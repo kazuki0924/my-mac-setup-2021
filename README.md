@@ -166,6 +166,13 @@ alias vsz="cd && code-insiders .zshrc"
 - Go Outliner
 - Lowlight Go Errors
 
+### Shell
+- shell-format
+- Shell Syntax
+- Better Shell Syntax
+- Shell Script Snippets
+- Bash IDE
+
 ### Mermaid
 - Mermaid Markdown Syntax Highlighting
 - Mermaid Preview
