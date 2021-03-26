@@ -138,9 +138,9 @@ alias gpull="git pull origin master"
 alias gf="git fetch origin"
 alias grs="git reset --soft HEAD~1"
 
-function commit {
-  printf "zsh function executing following:\n\ngit add --all\ngit commit -m \$1\ngit push origin HEAD\n\n"
-  readonly COMMENT=${1:?"The comment cannot be empty."}
+function gacp {
+  printf "zsh function executing following:\n\ngit add --all\ngit commit -m \$@\ngit push origin HEAD\n\n"
+  readonly COMMENT=${@:?"The comment cannot be empty."}
 
   ga
   gc "$COMMENT"
