@@ -61,6 +61,7 @@
 - up
 - direnv
 - Medis
+- pip
 
 ### Go
 ```
