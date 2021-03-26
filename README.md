@@ -115,6 +115,40 @@ alias grs="git reset --soft HEAD~1"
 alias vsz="cd && code-insiders .zshrc"
 ```
 
+```
+alias y="yarn"
+alias yi="yarn init"
+alias ya="yarn add"
+alias yd="yarn add -D"
+alias yrm="yarn remove"
+alias yr="yarn run"
+alias ys="yarn start"
+alias yt="yarn test"
+alias yu="yarn upgrade"
+alias yui="yarn upgrade-interactive --latest"
+
+alias s="source ~/.zshrc"
+alias vsz="cd && code-insiders .zshrc"
+alias vsr="cd && code-insiders ."
+
+alias ga="git add --all"
+alias gc="git commit -m "
+alias gpush="git push origin HEAD"
+alias gpull="git pull origin master"
+alias gf="git fetch origin"
+alias grs="git reset --soft HEAD~1"
+
+function commit {
+  printf "zsh function executing following:\n\ngit add --all\ngit commit -m \$1\ngit push origin HEAD\n\n"
+  readonly COMMENT=${1:?"The comment cannot be empty."}
+
+  ga
+  gc "$COMMENT"
+  gpush
+}
+```
+
+
 ### Visual Studio Code extentions
 
 ### Must
