@@ -81,6 +81,7 @@ alias medis="cd /Applications/medis && npm start"
 ### zsh setup
 - oh-my-zsh
 - powerlevel10k
+
 https://github.com/peterhurford/up.zsh
 https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/last-working-dir
 https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/alias-finder/README.md
