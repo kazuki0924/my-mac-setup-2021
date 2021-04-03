@@ -58,6 +58,7 @@
 - postgres
 - redis
 - tree
+- fzf
 - direnv
 - Medis
 - pip
@@ -82,27 +83,27 @@ alias medis="cd /Applications/medis && npm start"
 - oh-my-zsh
 - powerlevel10k
 
-https://github.com/peterhurford/up.zsh
-https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/last-working-dir
-https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/alias-finder/README.md
-https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/fzf/README.md
-https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/history-substring-search/README.md
-https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/jsontools/README.md
-https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/last-working-dir/README.md
-https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/dirhistory/README.md
-https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd/README.md
-https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/z/README.md
-https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/command-not-found/README.md
-https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/zsh-interactive-cd/README.md
-https://github.com/zsh-users/zsh-completions
-https://github.com/marlonrichert/zsh-autocomplete
-https://github.com/hlissner/zsh-autopair
-https://github.com/zsh-users/zsh-autosuggestions
-https://github.com/zdharma/fast-syntax-highlighting
-https://github.com/TamCore/autoupdate-oh-my-zsh-plugins
-https://github.com/zdharma/history-search-multi-word
-https://github.com/Aloxaf/fzf-tab
-https://github.com/lincheney/fzf-tab-completion
+- https://github.com/peterhurford/up.zsh
+- https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/last-working-dir
+- https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/alias-finder/README.md
+- https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/fzf/README.md
+- https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/history-substring-search/README.md
+- https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/jsontools/README.md
+- https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/last-working-dir/README.md
+- https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/dirhistory/README.md
+- https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd/README.md
+- https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/z/README.md
+- https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/command-not-found/README.md
+- https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/zsh-interactive-cd/README.md
+- https://github.com/zsh-users/zsh-completions
+- https://github.com/marlonrichert/zsh-autocomplete
+- https://github.com/hlissner/zsh-autopair
+- https://github.com/zsh-users/zsh-autosuggestions
+- https://github.com/zdharma/fast-syntax-highlighting
+- https://github.com/TamCore/autoupdate-oh-my-zsh-plugins
+- https://github.com/zdharma/history-search-multi-word
+- https://github.com/Aloxaf/fzf-tab
+- https://github.com/lincheney/fzf-tab-completion
 
 ```
 alias s="source ~/.zshrc"
