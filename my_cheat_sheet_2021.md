@@ -1,5 +1,6 @@
 ### alacritty
 - Ctrl + l : clear
+- Command + N : new instance
 
 ### tmux
 - Ctrl + f -> x : kill pane
