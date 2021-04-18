@@ -1,2 +1,0 @@
-### alacritty
-- Ctrl + l -> clear
