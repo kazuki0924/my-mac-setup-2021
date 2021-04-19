@@ -2,6 +2,9 @@
 - Ctrl + l : clear
 - Command + N : new instance
 
+### tmux + alacritty
+- Shift + Click : open url
+
 ### tmux
 - Ctrl + f -> x : kill pane
 - Ctrl + f -> v : horizontal split
