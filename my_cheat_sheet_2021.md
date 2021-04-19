@@ -19,3 +19,6 @@
 - Ctrl + f -> [ : enter copy mode
 - (in copy mode) v : begin selection
 - (in copy mode) y : copy selection and cancel
+
+### zsh-autocomplete
+- https://github.com/marlonrichert/zsh-autocomplete/blob/main/README.md#zsh-autocomplete
