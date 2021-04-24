@@ -1,5 +1,5 @@
 ### vim
-- ci" : change in x
+- ci" : change in " (" can be '{[ etc...)
 - Ctrl + w : split pane
 - Ctrl + O / Ctrl + I : jumping to and from previously visited locations
 
