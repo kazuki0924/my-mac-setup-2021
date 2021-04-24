@@ -1,3 +1,8 @@
+### vim
+- ci" : change in x
+- Ctrl + w : split pane
+- Ctrl + O / Ctrl + I : jumping to and from previously visited locations
+
 ### alacritty
 - Ctrl + l : clear
 - Command + N : new instance
