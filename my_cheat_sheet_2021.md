@@ -1,7 +1,15 @@
 ### vim
-- ci" : change in " (" can be '{[ etc...)
+- ci" : change inside " (" can be '{[ etc...)
+- ca" : change outside " (" can be '{[ etc...)
 - Ctrl + w : split pane
 - Ctrl + O / Ctrl + I : jumping to and from previously visited locations
+- :m-2 / :m+ : move line up / down
+- . : repeat last change made in normal mode
+- @: : repeat last command
+
+- Copy a word to multiple locations  
+  Copy a line to multiple locations  
+  https://vim.fandom.com/wiki/Repeat_last_change
 
 ### alacritty
 - Ctrl + l : clear
