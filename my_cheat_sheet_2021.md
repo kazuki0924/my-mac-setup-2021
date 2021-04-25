@@ -19,17 +19,17 @@
 - Shift + Click : open url
 
 ### tmux
-- Ctrl + f -> x : kill pane
-- Ctrl + f -> v : horizontal split
-- Ctrl + f -> s : vertical split
-- Ctrl + f -> j/k/h/l : select pane
-- Ctrl + f -> J/K/H/L : resize pane
-- Ctrl + f -> c : new window
-- Ctrl + f -> n : next window
-- Ctrl + f -> Ctrl + f : toggle last window
+- Ctrl + a -> x : kill pane
+- Ctrl + a -> v : horizontal split
+- Ctrl + a -> V : vertical split
+- Ctrl + a -> j/k/h/l : select pane
+- Ctrl + a -> J/K/H/L : resize pane
+- Ctrl + a -> c : new window
+- Ctrl + a -> n : next window
+- Ctrl + a -> Ctrl + a : toggle last window
 - Ctrl + Shift + Left/Right : move current window
-- Ctrl + f -> r : reload
-- Ctrl + f -> [ : enter copy mode
+- Ctrl + a -> r : reload
+- Ctrl + a -> [ : enter copy mode
 - (in copy mode) v : begin selection
 - (in copy mode) y : copy selection and cancel
 
