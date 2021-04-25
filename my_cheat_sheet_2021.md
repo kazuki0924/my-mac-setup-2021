@@ -10,6 +10,10 @@
 - Copy a word to multiple locations  
   Copy a line to multiple locations  
   https://vim.fandom.com/wiki/Repeat_last_change
+  
+### vim plugins
+- vim-surround
+https://github.com/tpope/vim-surround/blob/master/doc/surround.txt
 
 ### alacritty
 - Ctrl + l : clear
