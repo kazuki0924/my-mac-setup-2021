@@ -37,5 +37,8 @@ https://github.com/tpope/vim-surround/blob/master/doc/surround.txt
 - (in copy mode) v : begin selection
 - (in copy mode) y : copy selection and cancel
 
+### VS Code
+- Shift + F10 : right click
+
 ### zsh-autocomplete
 - https://github.com/marlonrichert/zsh-autocomplete/blob/main/README.md#zsh-autocomplete
