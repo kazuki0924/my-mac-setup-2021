@@ -1,25 +1,38 @@
 # my-mac-setup-2021
 
-### Apps
-- Chrome
+### Todos
+- git clone and make .dotfile
+
+### apps to install outside of Brewfile
+- Alacritty
 - Visual Studio Code Insiders
 - KensingtonWorks
-- Alfred
-- Clipy
 - DisplayLink
-- Docker
-- iTerm2
-- Karabiner
 - Logi Options
+
+### Other tools I used in the past (listed here for future reference)
+- iTerm2
+- The Unarchiver
+- GitHub Desktop
+- TablePlus
+- Postico
 - pgAdmin
 - Postgres.app
 - Postman
-- Rectangle
-- Slack
-- The Unarchiver
-- TablePlus
-- GitHub Desktop
-- Slack
+- postgres
+- redis
+- Medis
+- aws cli
+- eb cli
+- sam cli
+- pulumi cli
+- cdk cli
+- Python
+- Go
+- Node.js
+- direnv
+- pyenv
+- nvm
 
 ### Bookmarks
 - Gmail
@@ -30,38 +43,19 @@
 - Qiita
 - Zenn
 - YouTube
-- Udemy
 
 ### Chrome extentions
+- OneTab
 - Dark Reader
-- Octotree
 - OctoLinker
 - GitHub File Icons
 - Enhanced GitHub
+
+### Other extentions I used in the past (listed here for future reference)
 - React Developer Tools
 - Lighthouse
+- Octotree
 - Dark VS Code GitHub Theme
-
-### Setup Todo
-- Homebrew
-- aws cli
-- eb cli
-- sam cli
-- pulumi cli
-- cdk cli
-- anyenv
-- Python
-- Go
-- Node.js
-- yarn
-- Xcode
-- postgres
-- redis
-- tree
-- fzf
-- direnv
-- Medis
-- pip
 
 ### Go
 ```
@@ -80,9 +74,6 @@ alias medis="cd /Applications/medis && npm start"
 ```
 
 ### zsh setup
-- oh-my-zsh
-- powerlevel10k
-
 - https://github.com/peterhurford/up.zsh
 - https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/last-working-dir
 - https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/alias-finder/README.md
@@ -105,54 +96,9 @@ alias medis="cd /Applications/medis && npm start"
 - https://github.com/Aloxaf/fzf-tab
 - https://github.com/lincheney/fzf-tab-completion
 
-```
-alias s="source ~/.zshrc"
-alias ga="git add --all"
-alias gc="git commit -m "
-alias gf="git fetch origin"
-alias gpush="git push origin HEAD"
-alias gpull="git pull origin master"
-alias grs="git reset --soft HEAD~1"
-alias vsz="cd && code-insiders .zshrc"
-```
-
-```
-alias y="yarn"
-alias yi="yarn init"
-alias ya="yarn add"
-alias yd="yarn add -D"
-alias yrm="yarn remove"
-alias yr="yarn run"
-alias ys="yarn start"
-alias yt="yarn test"
-alias yu="yarn upgrade"
-alias yui="yarn upgrade-interactive --latest"
-
-alias s="source ~/.zshrc"
-alias vsz="cd && code-insiders .zshrc"
-alias vsr="cd && code-insiders ."
-
-alias ga="git add --all"
-alias gc="git commit -m "
-alias gpush="git push origin HEAD"
-alias gpull="git pull origin master"
-alias gf="git fetch origin"
-alias grs="git reset --soft HEAD~1"
-
-function gacp {
-  printf "zsh function executing following:\n\ngit add --all\ngit commit -m \$@\ngit push origin HEAD\n\n"
-  readonly COMMENT=${@:?"The comment cannot be empty."}
-
-  ga
-  gc "$COMMENT"
-  gpush
-}
-```
-
-
 ### Visual Studio Code extentions
 
-### Must
+### Essentials
 - Bracket Pair Colorizer 2
 - Code Spell Checker
 - Control Snippets
@@ -213,7 +159,7 @@ function gacp {
 - Mermaid Markdown Syntax Highlighting
 - Mermaid Preview
 
-### Maybe
+### Others I used in the past
 - All Autocomplete
 - Auto Close Tag
 - Auto Complete Tag
@@ -229,6 +175,7 @@ function gacp {
 
 ### Fonts
 - FiraCode
+- MesloLGS NF
 
 ### Other
 - Change Modifier Key: from Caps Lock to Control
