@@ -46,7 +46,9 @@
 
 ### Chrome extentions
 - OneTab
+- The Great Suspender
 - Dark Reader
+- Gitako
 - OctoLinker
 - GitHub File Icons
 - Enhanced GitHub
@@ -149,6 +151,7 @@ alias medis="cd /Applications/medis && npm start"
 - Partial Diff
 - Path Autocomplete
 - Path Intellisense
+- Encode Decode
 
 ### Fonts
 - FiraCode
