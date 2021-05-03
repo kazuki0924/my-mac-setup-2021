@@ -1,16 +1,17 @@
 # my-mac-setup-2021
 
-### Todos
+### todos
 - git clone and make .dotfile
 
-### apps to install outside of Brewfile
+### apps to install
 - Alacritty
 - Visual Studio Code Insiders
+- Picturama
 - KensingtonWorks
 - DisplayLink
 - Logi Options
 
-### Other tools I used in the past (listed here for future reference)
+### other tools I used in the past (listed here for future reference)
 - iTerm2
 - The Unarchiver
 - GitHub Desktop
