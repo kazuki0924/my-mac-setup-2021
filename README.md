@@ -65,6 +65,7 @@ alias medis="cd /Applications/medis && npm start"
 ### Visual Studio Code extentions
 
 ### Essentials
+- Better Comments
 - Bracket Pair Colorizer 2
 - Code Spell Checker
 - Control Snippets
@@ -90,6 +91,7 @@ alias medis="cd /Applications/medis && npm start"
 - Visual Studio IntelliCode
 - YAML
 - Docker
+- Vim
 
 ### Themes
 - Material Theme Icons
