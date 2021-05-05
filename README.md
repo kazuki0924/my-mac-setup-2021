@@ -1,9 +1,10 @@
 # my-mac-setup-2021
 
-### todos
-- git clone and make .dotfile
+### general
+- git clone my dotfile and dotfile-personal
+- git clone my-cheatsheet
 
-### apps to install
+### apps to install manually
 - Alacritty
 - Visual Studio Code Insiders
 - Picturama
@@ -11,9 +12,7 @@
 - DisplayLink
 - Logi Options
 
-### other tools I used in the past (listed here for future reference)
-- iTerm2
-- The Unarchiver
+### other tools I no longer use (listed here for reference)
 - GitHub Desktop
 - TablePlus
 - Postico
@@ -28,14 +27,9 @@
 - sam cli
 - pulumi cli
 - cdk cli
-- Python
-- Go
-- Node.js
 - direnv
-- pyenv
-- nvm
 
-### Bookmarks
+### web bookmarks
 - Gmail
 - Notion
 - GitHub
@@ -45,7 +39,7 @@
 - Zenn
 - YouTube
 
-### Chrome extentions
+### chrome extentions
 - OneTab
 - The Great Suspender
 - Dark Reader
@@ -54,19 +48,11 @@
 - GitHub File Icons
 - Enhanced GitHub
 
-### Other extentions I used in the past (listed here for future reference)
+### chrome extentions I no longer use (listed here for future reference)
 - React Developer Tools
 - Lighthouse
 - Octotree
 - Dark VS Code GitHub Theme
-
-### Go
-```
-go get -u github.com/cosmtrek/air
-
-// .zshrc
-alias air='$(go env GOPATH)/bin/air'
-```
 
 ### Redis
 ```
@@ -153,10 +139,6 @@ alias medis="cd /Applications/medis && npm start"
 - Path Autocomplete
 - Path Intellisense
 - Encode Decode
-
-### Fonts
-- FiraCode
-- MesloLGS NF
 
 ### Other
 - Change Modifier Key: from Caps Lock to Control
