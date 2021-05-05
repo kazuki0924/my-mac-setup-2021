@@ -64,19 +64,30 @@ alias medis="cd /Applications/medis && npm start"
 
 ### Visual Studio Code extentions
 
+### To Check
+- Version Lens
+- CodeStream
+- TS/JS postfix completion
+- footsteps
+- Neo Vim
+
 ### Essentials
 - Better Comments
 - Bracket Pair Colorizer 2
 - Code Spell Checker
 - Control Snippets
-- Error Lens
+- Docker
 - DotENV
+- EditorConfig for VS Code
+- Error Lens
+- Explorer Exclude
 - Extened Terminal Integration
 - Formatting Toggle
 - Git Graph
 - gitignore
 - GitLens
 - Go to Next/Previous Member
+- Gremlins tracker for Visual Studio Code
 - indent-rainbow
 - Markdown All in One
 - markdownlint
@@ -84,6 +95,7 @@ alias medis="cd /Applications/medis && npm start"
 - MetaJump
 - MetaWord
 - Output Colorizer
+- Partial Diff
 - Quick and Simple Text Selection
 - Shortcuts
 - Sort JSON objects
@@ -95,7 +107,7 @@ alias medis="cd /Applications/medis && npm start"
 
 ### Themes
 - Material Theme Icons
-- Horizon
+- Horizon Theme
 - Fluent Icons
 
 ### JavaScript
@@ -107,9 +119,10 @@ alias medis="cd /Applications/medis && npm start"
 - npm Intellisense
 - Prettier
 - Quokka.js
-- QUokka Statusbar
+- Quokka Statusbar
 - TypeScript Import
 - TypeScript Import Sorter
+- Path Intellisense
 
 ### Go
 - Go
@@ -119,6 +132,7 @@ alias medis="cd /Applications/medis && npm start"
 ### Shell
 - shell-format
 - Shell Syntax
+- ShellCheck
 - Better Shell Syntax
 - Shell Script Snippets
 - Bash IDE
@@ -126,6 +140,9 @@ alias medis="cd /Applications/medis && npm start"
 ### Mermaid
 - Mermaid Markdown Syntax Highlighting
 - Mermaid Preview
+
+### Web Development
+- Image preview
 
 ### Others I used in the past
 - All Autocomplete
@@ -141,6 +158,7 @@ alias medis="cd /Applications/medis && npm start"
 - Path Autocomplete
 - Path Intellisense
 - Encode Decode
+- styleelint
 
 ### Other
 - Change Modifier Key: from Caps Lock to Control
